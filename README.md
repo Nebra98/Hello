@@ -20,7 +20,7 @@
     - DB_USERNAME=root
     - DB_PASSWORD=
             
-8. Pokrenuti komandu: php artisan key:generate
+8. Pokrenuti komandu:<b> php artisan key:generate </b>
 
 9. File baze podataka (hello.sql) koji se nalazi u folderu potrebno je importati u novonapravljenoj bazi podataka u phpmyadmin panelu
  
