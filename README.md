@@ -13,12 +13,12 @@
 6. Napraviti novu bazu podataka u phpmyadmin
 
 7. U .env fileu podesiti parametre za spajanje s bazom podataka: 
-            DB_CONNECTION=mysql
-            DB_HOST=127.0.0.1
-            DB_PORT=3306
-            DB_DATABASE=ime_baze_podataka
-            DB_USERNAME=root
-            DB_PASSWORD=
+    - DB_CONNECTION=mysql
+    - DB_HOST=127.0.0.1
+    - DB_PORT=3306
+    - DB_DATABASE=ime_baze_podataka
+    - DB_USERNAME=root
+    - DB_PASSWORD=
             
 8. Pokrenuti komandu: php artisan key:generate
 
