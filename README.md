@@ -27,5 +27,5 @@
 10. Pokrenuti lokalni server
 
 Podaci za logiranje kao admin user su:
-    - email: admin@admin.com
-    - pass: password
+- email: admin@admin.com
+- pass: password
