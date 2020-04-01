@@ -25,3 +25,7 @@
 9. File baze podataka (hello.sql) koji se nalazi u folderu potrebno je importati u novonapravljenoj bazi podataka u phpmyadmin panelu
  
 10. Pokrenuti lokalni server
+
+Podaci za logiranje kao admin user su:
+    - email: admin@admin.com
+    - pass: password
