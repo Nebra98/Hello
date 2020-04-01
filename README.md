@@ -4,7 +4,7 @@
     
 2. Pokrenuti komandu: git clone https://github.com/Nebra98/Hello.git , ili Download ZIP
     
-3. Nakon što ste preuzeli datoteku, potrebno je da se navigirate u nju preko terminaka ili cmd-a
+3. Nakon što ste preuzeli datoteku, potrebno je da se navigirate u nju preko terminala ili cmd-a
  
 4. Nakon što ste se navigirali potrebno je pokrenuti komandu: composer install
 
