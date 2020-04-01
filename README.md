@@ -10,7 +10,7 @@
 
 5. Pokrenuti komandu: cp .env.example .env 
 
-6. Napraviti novu bazu podataka u phpmyadmin
+6. Napraviti novu bazu podataka u phpmyadmin (npr. ime: hello)
 
 7. U .env fileu podesiti parametre za spajanje s bazom podataka: 
     - DB_CONNECTION=mysql
